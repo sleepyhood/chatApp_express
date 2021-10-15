@@ -1,0 +1,24 @@
+{
+  "name": "chatapp_express",
+  "version": "1.0.0",
+  "description": "clone kakao chat demo (reference by code Scalper) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepyhood/chatApp_express.git"
+  },
+  "author": "sleepyhood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleepyhood/chatApp_express/issues"
+  },
+  "homepage": "https://github.com/sleepyhood/chatApp_express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.3.0"
+  }
+}
